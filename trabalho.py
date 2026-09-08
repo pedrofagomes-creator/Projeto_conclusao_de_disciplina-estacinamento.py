@@ -1,6 +1,6 @@
 # declaracões importantes
 veiculos = []
-CAPACIDADE_MAXIMA = 10
+CAPACIDADE_MAXIMA = 15
 
 # funções ==================================================================================================
   
