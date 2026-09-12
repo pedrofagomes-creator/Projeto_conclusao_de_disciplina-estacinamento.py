@@ -192,7 +192,7 @@ def main():
             break
         else:
             print("Opcao invalida.")
-
+aa=1234
 if __name__=="__main__":
     main()
 
